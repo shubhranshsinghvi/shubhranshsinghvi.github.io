@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "GINA: Wireless sensor platform"
+title:  "Clustering"
 date:   2010-06-22 18:08:39 +00:00
 image: /images/gina-motes.jpg
-categories: UC
+categories: Technion
 course: " Berkeley"
 author: "Leo Keselman"
 subtitle: "A low power, wireless sensor"
