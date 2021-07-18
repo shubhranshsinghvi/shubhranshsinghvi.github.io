@@ -1,19 +1,14 @@
 ---
 layout: post
-title:  "Clustering"
-date:   2010-06-22 18:08:39 +00:00
-image: /images/gina-motes.jpg
-categories: research
-course: " Berkeley"
+title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
+date:   2019-06-04 22:21:59 +00:00
+image: /images/jcdl2019.png
+categories: Research
 author: "Leo Keselman"
-subtitle: "A low power, wireless sensor"
+authors: "<strong>Leonid Keselman</strong>"
+venue: "ACM/IEEE Joint Conference on Digital Libraries"
+arxiv: https://arxiv.org/abs/1904.12573
+slides: /pdfs/jcdl2019.pdf
+code: https://github.com/leonidk/venue_scores
 ---
-I helped Anita Flynn and Thomas Watteyne build these small sensors and wrote firmware. 
-
-Assisting Dr. Anita Flynn in [Prof. Kris Pister's](http://wsn.eecs.berkeley.edu/){:target="_blank"} lab, 
-I learned a lot about testing and board-debugging the GINA 2.2/b/c boards. I learned a lot from this project, 
-from cutting traces to reflowing boards , even soldering and de-soldering components smaller than 4mm square. 
-From Ankur Mehta, I learned a lot about serial protocols, from i2c, to SPI, UART and USB. 
-This included writing new firmware to support new sensors and connecting across serial protocols to enable PC-sensor interaction. 
-This was my first summer project and it was a bunch of exciting, hands-on learning. 
-Some of my code contributions (mostly in terms of small, MSP430 C programs) may (perhaps) still be found [here](http://openwsn.berkeley.edu/){:target="_blank"}.
+A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
