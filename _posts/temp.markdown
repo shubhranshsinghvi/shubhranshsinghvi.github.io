@@ -3,7 +3,7 @@ layout: post
 title:  "Clustering"
 date:   2010-06-22 18:08:39 +00:00
 image: /images/gina-motes.jpg
-categories: Technion
+categories: "Technion"
 course: " Berkeley"
 author: "Leo Keselman"
 subtitle: "A low power, wireless sensor"
